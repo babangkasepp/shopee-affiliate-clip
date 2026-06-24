@@ -1,5 +1,10 @@
 # 🎬 shopee-affiliate-clip
 
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/output-9%3A16%20vertical-ff4b6e)
+![Status](https://img.shields.io/badge/status-active-success)
+
 Turn a single **product photo** into a vertical **9:16 cinematic promo clip** — with optional
 AI **voice-over** and an auto-synthesized **backsound that ducks under the voice** — ready to
 upload to **Facebook, Reels and YouTube Shorts**.
