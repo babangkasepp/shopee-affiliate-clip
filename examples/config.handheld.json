@@ -1,0 +1,16 @@
+{
+  "product_image": "examples/product.png",
+  "scene_prompt": "",
+  "shots": [
+    {"prompt": "POV: a hand picks up the product from a clean desk and holds it up to the camera", "duration": 5},
+    {"prompt": "POV: the hand slowly rotates the product to show it from different angles, soft studio light", "duration": 5},
+    {"prompt": "POV: the hand brings the product closer for a detailed close-up, shallow depth of field", "duration": 5}
+  ],
+  "aspect_ratio": "9:16",
+  "vo_text": "Wajib punya! Produk ini bikin hidup lo lebih gampang. Kualitas oke, harga murah banget! Klik link sekarang, stok terbatas!",
+  "voice": "bella",
+  "backsound": true,
+  "energy": "viral",
+  "out": "out/handheld_final.mp4",
+  "workdir": "out/handheld_wd"
+}

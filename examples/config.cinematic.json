@@ -1,0 +1,16 @@
+{
+  "product_image": "examples/product.png",
+  "scene_prompt": "cozy bedroom at night, soft pink-purple LED glow behind the wall clock, warm fairy-light bokeh, moody cinematic ambiance",
+  "shots": [
+    {"prompt": "slow cinematic push-in toward the flower wall clock, LED glow pulsing softly, dust particles in light", "duration": 5},
+    {"prompt": "smooth glide across the clock face revealing the details, fairy lights twinkle in the background", "duration": 5},
+    {"prompt": "slow pull-back revealing the cozy room around the clock, warm inviting atmosphere", "duration": 5}
+  ],
+  "aspect_ratio": "9:16",
+  "vo_text": "Kamarmu butuh ini! Jam dinding bunga tulip dengan lampu LED, bikin suasana malam makin aesthetic dan cozy. Cuma tiga puluh empat ribuan! Klik link sekarang, keburu kehabisan!",
+  "voice": "bella",
+  "backsound": true,
+  "energy": "viral",
+  "out": "out/tulip_final.mp4",
+  "workdir": "out/tulip_wd"
+}
