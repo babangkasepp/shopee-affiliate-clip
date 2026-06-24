@@ -1,5 +1,6 @@
 # 🎬 shopee-affiliate-clip
 
+[![CI](https://github.com/babangkasepp/shopee-affiliate-clip/actions/workflows/ci.yml/badge.svg)](https://github.com/babangkasepp/shopee-affiliate-clip/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/output-9%3A16%20vertical-ff4b6e)
